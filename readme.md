@@ -27,11 +27,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
+Ik probeerde de experimenteren om over te schakelen naar een Zwarte Piste. Mijn site die ik hiervoor mee begonnen was had een interessante en misschien wat persoonlijk concept. De bedoeling was dat ik mijn eigen "home site" kon creeren gebaseerd om mijn persoonlijke interreses en hobbies, waarin er meerder functies dat er tot mijn beschikking was. Als een programmeur voor mijn vorige opleiding heb ik nog wel wat ervaring en kennis op het gebied van PHP en MySql. Helaas vond ik dit een beetje te ambitious en was voortgang te langzaam om dit voort te zetten. Ik had zelfs digitale assets op illustrator gemaakt. Als gevolg ben ik weer overgeschakeld naar Rode Piste.
+
+Foto: Site van Zwarte Piste(gefaald)
+![-gefaakd zwartepiste-](images/zwartepiste.png)
+
 -dit ging goed & dit was lastig-
+
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+Foto: Site van Zwarte Piste(gefaald)
+![-gefaald zwartepiste-](images/zwartepiste.png)
 
 ### Agenda voor meeting
 
