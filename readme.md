@@ -31,11 +31,21 @@ Ik probeerde de experimenteren om over te schakelen naar een Zwarte Piste. Mijn 
 
 -dit ging goed & dit was lastig-
 
+In mijn Rode piste opdracht had ik dan ook een stuk meer succes op het gebied van coderen omdat het wat simpeleren en doelgericht was. Ik hoefde geen nieuwe functies en ideeen te bedenken in hierop constant intern iteraties te maken. Mijn rode piste opdracht is gebaseerd op "Mangafox" site waarin je online manga's kan lezen. Ik geloof dat ik hier wel de algemene design en structuur goed heb opgebouwd. 
+
+
 
 **Screenshot(s):**
 
 Foto: Site van Zwarte Piste(gefaald)
 ![-gefaald zwartepiste-](images/zwartepiste.png)
+
+Feedback Gesprek: 
+Ik had een aantal problemen met mijn <ul> elementen die wat naar rechts gaan zonder enige vorm van code die het toegewezen werd. We probeerde het te fixen tijdens het gesprek maar helaas konden we niet op een oplossing uitkomen. Dit lijkt me een vraag voor het voortgang's gesprek. Vervolgens hadden we elkaar nog kleine feedback gegeven voor het verbeteren van onze producten. 
+  
+Foto: Site van Rode Piste Voortgang
+![-voortgant rodepiste-](images/versie1.png)
+![-voortgant rodepiste-](images/versie1pag2.png)
 
 ### Agenda voor meeting
 
