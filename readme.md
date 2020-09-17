@@ -45,6 +45,7 @@ Ik had een aantal problemen met mijn <ul> elementen die wat naar rechts gaan zon
   
 Foto: Site van Rode Piste Voortgang
 ![-voortgant rodepiste-](images/versie1.png)
+
 ![-voortgant rodepiste-](images/versie1pag2.png)
 
 ### Agenda voor meeting
