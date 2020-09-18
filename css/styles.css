@@ -1,0 +1,60 @@
+body {
+	font-family: open sans,Verdana,sans-serif;
+    font-size: 12px;
+    line-height: 150%;
+    width: 100%;
+	margin: 0;
+}
+
+.top-search {
+    position: absolute;
+    left: 0;
+    top: 15px;
+    height: 30px;
+    width: 100%;
+}
+
+.flexslider {
+	overflow: hidden;
+}
+
+.top-banner {
+	left:0;
+}
+
+.menu {
+    height: 66px;
+    background: #75b520;
+}
+
+.flexslider .slides img {
+    width: 100%;
+    display: block;
+    left: 0;
+    top: 0;	
+}
+
+#title {
+    height: 36px;
+    line-height: 36px;
+    padding: 0 10px;
+    color: #454545;
+    font-size: 14px;
+}
+
+.container ul {
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0;
+	justify-content: flex-start;
+}
+
+ul li {
+	list-style:none;
+}
+
+.container ul li img {
+	width: 7em;
+	height: 10em;
+}
