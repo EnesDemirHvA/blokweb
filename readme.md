@@ -58,7 +58,7 @@ Foto: Site van Rode Piste Voortgang
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Ik ben vooral verder gegaan met de details op de hoofdpagina terwijl ik de basis elementen heb toegevoegd op mijn tweede login pagina. Dit was een stuk lastiger dan verwacht aangezien ik veel met containers in containers moet werken. Dit is me uiteindelijk welke netjes gelukt en in samenstelling met flexbox. Mijn doel voor de komende week is dus de paginas compleet af te maken en vervolgens animatie toe te voegen en mogelijk meer content toevoegen zodat het een stuk meer complex is. 
 
 
 ## Voortgang 3 (week 6)
