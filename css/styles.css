@@ -1,9 +1,14 @@
+* {
+    padding: 0;
+}
+
 body {
 	font-family: open sans,Verdana,sans-serif;
     font-size: 12px;
     line-height: 150%;
     width: 100%;
 	margin: 0;
+    background-color: #eee;
 }
 
 .top-search {
@@ -18,24 +23,131 @@ body {
 	overflow: hidden;
 }
 
+.flexslider .slides img {
+    width: 100%;
+    left: 0;
+    top: 0;	
+}
+
 .top-banner {
 	left:0;
+}
+
+/** NAVIGATIE SECTIE **/ 
+
+ul li {
+    list-style-type: none;
 }
 
 .menu {
     height: 66px;
     background: #75b520;
+    margin: -29px 0 0px 0px;
 }
 
-.flexslider .slides img {
-    width: 100%;
+.menu ul {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.menu ul li {
+    width: 33.3%;
+}
+
+.menu ul li a {
+    font-size: 14px;
     display: block;
-    left: 0;
-    top: 0;	
+    color: #fff;
+    border: 1px solid #6aa51c;
+    border-left: none;
+    height: 48px;
+    padding-top: 16px;
+}
+
+/** LOGIN.HTML - NAVIGATIE SECTIE **/ 
+
+.menu2 {
+    height: 66px;
+    background: #75b520;
+    margin: 0 0 0px 0px;
+}
+
+.menu2 ul {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.menu2 ul li {
+    width: 33.3%;
+}
+
+.menu2 ul li a {
+    font-size: 14px;
+    display: block;
+    color: #fff;
+    border: 1px solid #6aa51c;
+    border-left: none;
+    height: 48px;
+    padding-top: 16px;
+}
+
+.login-title {
+    color: #404040;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    margin: 20px 10px 10px;
+}
+
+/** STATUS NAVIGATIE SECTIE **/
+
+.status-container {
+    height: 66px;
+    background: #FFFFFF;
+}
+
+.status-container ul {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.status-container ul li {
+    width: 25%;
+    font-style: none;
+}
+
+.status-container ul li a {
+    font-size: 14px;
+    display: block;
+    color: #000000;
+    border: 1px solid #eee;
+    border-left: none;
+    height: 48px;
+    padding-top: 16px;
+}
+
+    
+#title-status {
+    font-size: 18px;
+    line-height: 24px;
+    margin: 20px 0 10px;
+    text-align: center;
+    color: #a5c181;
+}
+
+#title-status span {
+    font-weight: 700;
+    color: #75b520;
 }
 
 #title {
-    height: 36px;
+    height: 20px;
     line-height: 36px;
     padding: 0 10px;
     color: #454545;
@@ -50,11 +162,42 @@ body {
 	justify-content: flex-start;
 }
 
-ul li {
+.container ul li {
 	list-style:none;
+    margin: 0px 2px -9px 8px;
 }
 
-.container ul li img {
-	width: 7em;
-	height: 10em;
+article .mangas-container {
+    position: relative;
+    width: 90px;
+}
+
+.mangatitles {
+    color: #6e6e6e;
+    text-align: center;
+}
+
+article .mangas-front img {
+    width: 100%;
+    height: 100%;
+}
+
+article .mangas-front {
+    border: 1px solid #e5e5e5;
+    height: 140px;
+    width: 90px;
+    display: block;
+    position: relative;
+
+}
+
+article .mangas-front p {
+    position: absolute;
+    left: 0;
+    bottom: -13px;
+    width: 100%;
+    color: #fff;
+    text-align: right;
+    font-style: inherit;
+    background-image: linear-gradient(to bottom,rgba(255,255,255,.3),rgba(0,0,0,.8));
 }
