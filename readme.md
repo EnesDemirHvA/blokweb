@@ -43,7 +43,6 @@ Foto: Site van Zwarte Piste(gefaald)
 Feedback Gesprek: 
 Ik had een aantal problemen met mijn <ul> elementen die wat naar rechts gaan zonder enige vorm van code die het toegewezen werd. We probeerde het te fixen tijdens het gesprek maar helaas konden we niet op een oplossing uitkomen. Dit lijkt me een vraag voor het voortgang's gesprek. Vervolgens hadden we elkaar nog kleine feedback gegeven voor het verbeteren van onze producten. 
   
-Foto: Site van Rode Piste Voortgang
 ![-voortgant rodepiste-](images/versie1.png)
 
 ![-voortgant rodepiste-](images/versie1pag2.png)
