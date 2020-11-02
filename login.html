@@ -12,13 +12,24 @@
 	<link href="css/styles.css" rel="stylesheet">
 </head>
 
-<body>
-
-<nav class="menu2">
- <ul>
-  <li><a href="/search">Search</a></li>
-  <li><a class="select" href="/">Home</a></li>
-  <li><a href="/bookmark">Bookmark </a></li>
+<body class="body">
+    
+<nav class="menu-login">
+ <ul> 
+  <li>
+  <img src="img/search-icon.png" class="nav-icons">
+  <a href="/search"> SEARCH</a>
+  </li>
+  
+  <li>
+  <img src="img/home-icon.png" class="nav-icons">
+  <a class="select" href="/">HOME</a>
+  </li>
+  
+  <li>
+  <img src="img/bookmark-icon.png" class="nav-icons">
+  <a href="login.html"> BOOKMARK</a>
+  </li>  
  </ul>
 </nav>
 
@@ -34,15 +45,19 @@
 <section class="form">
 <nav>
  <ul>
-  <li><input placeholder="Username" name="username" type="text"></li>
-  <li><input placeholder="Password" name="password" type="text"></li>
-  <li><input class="red-button" type="submit" value="Log In"></li>
-  <li><input class="orange-button" type="submit" value="Register A New Account"></li>
+  <li>
+      <div class="lines" id="right-line"></div>
+      <div class="lines" id="left-line"></div>
+      <input placeholder="Username" class="inputs" name="username" type="text">
+     </li>
+  <li><input placeholder="Password" class="inputs" name="password" type="text"></li>
+  <li><input class="buttons" id="red-button" type="submit" value="Log In"></li>
+  <li><input class="buttons" id="orange-button" type="submit" value="Register A New Account"></li>
   <li><p>OR</p></li>
-  <li><input class="blue-button" type="submit" value="Login With Facebook"></li>
+  <li><img src="img/fb-icon.png" class="fb-icon"><input class="buttons" id="blue-button" type="submit" value="Login With Facebook"></li>
  </ul>
 </nav>
 </section>
-    
+ 
 </body>	
 </html>

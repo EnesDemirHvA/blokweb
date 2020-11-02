@@ -8,17 +8,16 @@
 	
 	<title>Mangafox Replica</title>
 	
-	<script src="scripts/script.js"></script>
+	<script src="js/script.js"></script>
 	<link href="css/styles.css" rel="stylesheet">
 </head>
 
-<body>
-    
-<section class="top-search">
- <a href="img/new-button.png"></a>
- <section class="top-search-content">
- <input type="text" name="k" placeholder="Enter Manga Name..." class="search-text"> <input type="submit" value="GO" class="search-icon">
- </section>
+<body class="body">
+<section class="searchbar-container">
+  <section class="searchbar-inner">
+  <input type="text" name="k" placeholder="Enter Manga Name..." class="search-text">
+  <input type="submit" value="GO" class="search-icon">
+  </section>
 </section>
 
 <section class="top-banner">
@@ -29,12 +28,35 @@
  </section>
 </section>
 
+<section class="switch-container">
+<p> Nightmode </p>
+
+<label class="switch">
+  <input type="checkbox" id="checkbox" onclick="togglenightmode()">
+  <span class="slider round"></span>
+</label>
+</section>
+
 <nav class="menu">
  <ul>
-  <li><a href="/search"> Search</a></li>
-  <li><a class="select" href="/">Home</a></li>
-  <li><a href="login.html">Bookmark </a></li>
+ 
+  <li>
+  <img src="img/search-icon.png" class="nav-icons">
+  <a href="/search"> SEARCH</a>
+  </li>
+  
+  <li>
+  <img src="img/home-icon.png" class="nav-icons">
+  <a class="select" href="/">HOME</a>
+  </li>
+  
+  <li>
+  <img src="img/bookmark-icon.png" class="nav-icons">
+  <a href="login.html"> BOOKMARK</a>
+  </li>
+  
  </ul>
+ 
 </nav>
     
 <p id="title-status">Browse Manga By <span>Status</span></p> 
@@ -197,7 +219,7 @@
     </article>
     </li>
 </ul>
-</section>
-  
+</section> 
+    
 </body>	
 </html>
