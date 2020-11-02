@@ -1,19 +1,10 @@
-
-
-var bodyclass = document.getElementsByClassName("body");
-
-var checkboxtoggle = document.getElementById("checkbox");
-
-function togglenightmode(){
-    if (checkboxtoggle.checked === false){
-        bodyclass.setAttribute("class", "body");
-        console.log("Nightmode is OPEN");   
-    } else 
-    if (checkboxtoggle.checked === true){
-        bodyclass.setAttribute("class", "body-nm");
-        console.log("Nightmode is CLOSED");   
-    }
+// DOM ELEMENTEN SECTION
+var button = document.querySelector("#button");
+var mangatitles = document.querySelector(".button");
+// FUNCTIES SECTION
+function togglenightmode() {
+    document.body.classList.toggle('body-nm')
 }
 
 // EVENTLISTENERS SECTION
-
+button.addEventListener('click', togglenightmode);

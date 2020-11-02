@@ -2,7 +2,7 @@
     padding: 0;
 }
 
-.body {
+body {
 	font-family: open sans,Verdana,sans-serif;
     font-size: 12px;
     line-height: 150%;
@@ -73,6 +73,9 @@
 }
 
 /* SWITCH KNOP */
+#button {
+    display:none;
+}
 
 .switch-container {
     width: 100px;
@@ -420,7 +423,7 @@ section.form nav ul li p {
     font-style: normal;
     text-align: center;
     display: block;
-    margin: 0 auto;
+    margin: 0px 0% 0 46%;
     width: 30px;
     height: 30px;
     line-height: 30px;
@@ -436,5 +439,9 @@ section.form nav ul li p {
     line-height: 150%;
     width: 100%;
 	margin: 0;
-    background-color: #FFFFFF;
+    background-color: #000000;
+}
+
+.nightmode {
+    color: #FFFFFF;
 }
