@@ -47,17 +47,11 @@ Ik had een aantal problemen met mijn <ul> elementen die wat naar rechts gaan zon
 
 ![-voortgant rodepiste-](images/versie1pag2.png)
 
-### Agenda voor meeting
-
--samen met je groepje opstellen-
-
-### Verslag van meeting
-
--na afloop snel uitkomsten vastleggen-
 
 ## Voortgang 2 (week 5)
 
 Ik ben vooral verder gegaan met de details op de hoofdpagina terwijl ik de basis elementen heb toegevoegd op mijn tweede login pagina. Dit was een stuk lastiger dan verwacht aangezien ik veel met containers in containers moet werken. Dit is me uiteindelijk welke netjes gelukt en in samenstelling met flexbox. Mijn doel voor de komende week is dus de paginas compleet af te maken en vervolgens animatie toe te voegen en mogelijk meer content toevoegen zodat het een stuk meer complex is. 
+
 
 
 ## Voortgang 3 (week 6)
@@ -70,15 +64,13 @@ Dit week was heel lastig voor mij. Alhoewel ik een achtergrond heb ik programmer
 
 Hier ging het al en stuk beter met mijn planning en algemene school drukte. Omdat dit de laatste week was kon ik meer tijd besteden aan programmeren waardoor ik mijn HTML en CSS netjes heb kunnen afronden op all mijn paginas. Zoals altijd had ik nog wel moeite met Javascript, maar met behulp van studenten assistentie kon ik voorgang maken en mijn gehele site afronden. 
 
+**Screenshot(s):**
+
 ![-voortgant rodepiste-](images/versie2.png)
 
 ![-voortgant rodepiste-](images/versie3.png)
 
-
-**Screenshot(s):**
-
--screenshot(s) van je eindresultaat-
-
+![-voortgant rodepiste-](images/versie4.png)
 
 ## Bronnenlijst
 1. http://fanfox.net/directory/
