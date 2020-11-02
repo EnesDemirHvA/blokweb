@@ -60,18 +60,21 @@ Foto: Site van Rode Piste Voortgang
 
 Ik ben vooral verder gegaan met de details op de hoofdpagina terwijl ik de basis elementen heb toegevoegd op mijn tweede login pagina. Dit was een stuk lastiger dan verwacht aangezien ik veel met containers in containers moet werken. Dit is me uiteindelijk welke netjes gelukt en in samenstelling met flexbox. Mijn doel voor de komende week is dus de paginas compleet af te maken en vervolgens animatie toe te voegen en mogelijk meer content toevoegen zodat het een stuk meer complex is. 
 
-Screenshots:
-
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Dit week was heel lastig voor mij. Alhoewel ik een achtergrond heb ik programmeren was het simpeleweg te druk met andere vakken om hier aan verder te werken. Ik heb wel grotendeels mijn HTML en CSS van de eerste pagina kunnen afmaken samen met een groot deel van de tweede pagina. De bedoeling was om dit af te ronden en vervolgens verder te gaan met me Javascript. Dit is iets waar ik persoonlijk veel moeite mee had omdat ik bij vele kleine dingen vast kwam zitten waardoor het veel tijd in beslag nam. Als gevolg heb ik met mijn docent afgesproken om direct over te gaan naar de herkansing. 
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Hier ging het al en stuk beter met mijn planning en algemene school drukte. Omdat dit de laatste week was kon ik meer tijd besteden aan programmeren waardoor ik mijn HTML en CSS netjes heb kunnen afronden op all mijn paginas. Zoals altijd had ik nog wel moeite met Javascript, maar met behulp van studenten assistentie kon ik voorgang maken en mijn gehele site afronden. 
+
+![-voortgant rodepiste-](images/versie2.png)
+
+![-voortgant rodepiste-](images/versie3.png)
+
 
 **Screenshot(s):**
 
@@ -79,6 +82,6 @@ Screenshots:
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. http://fanfox.net/directory/
+2. https://www.w3schools.com/default.asp
+3. Studenten Assistente - Sam Slotemaker
